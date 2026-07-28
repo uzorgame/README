@@ -10,7 +10,7 @@ Junior developer who ships. My primary stack is **Flutter / Dart** — I've rele
 
 ### 🚀 Featured
 
-- 🧩 **[Sudoku](https://github.com/uzorgame/Sudoku)** — a production Flutter game on Google Play: four modes (classic, daily, 1-v-1 battle, ranked championship), five difficulty tiers, ~30 languages, achievements and combos. Provider state management, cross-platform leaderboards.
+- 🧩 **[Sudoku](https://github.com/uzorgame/SudocuApp)** — a production Flutter game on Google Play: four modes (classic, daily, 1-v-1 battle, ranked championship), five difficulty tiers, ~30 languages, achievements and combos. Provider state management, cross-platform leaderboards.
 - 🚚 **[RutaLive](https://rutalive.com)** — courier-logistics SaaS. Flutter apps (iOS/Android) + React web + Node/Express/MongoDB backend, real-time over Socket.io, Mapbox maps.
 - 🪙 **[Kora Wallet](https://github.com/uzorgame/Crypto-Wallet-Kora)** — non-custodial, multi-chain crypto wallet (BTC, ETH, Solana, Tron and more), built with Flutter.
 - 🌐 **[Portfolio](https://uzorgame.github.io/)** — everything in one place.
