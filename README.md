@@ -4,7 +4,7 @@
 
 I build and ship production software end to end — from concept to release on the app stores. My primary stack is **Flutter / Dart**; I also work across the web (React) and backend (Node.js / Express / MongoDB). I'm co-founder and active developer of **RutaLive**, a multi-tenant courier-logistics SaaS competing with Onfleet, Digital Waybill and Track-POD across the US and Canada.
 
-**Open to junior Flutter roles and product collaborations.**
+**Open to Flutter roles and product collaborations.**
 
 ---
 
